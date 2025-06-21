@@ -139,6 +139,8 @@
 
 #### 安装步骤
 
+视频部署教程：https://www.bilibili.com/video/BV1wXN2zwE4Y/
+
 1.  **克隆仓库**
     ```bash
     git clone https://github.com/ponyletter/py310GoofishAiBot
