@@ -31,9 +31,9 @@ import smtplib
 from email.mime.text import MIMEText
 subject = "新顾客消息通知"
 
-sender = "@163.com"
-recver = "@qq.com"
-password = ""
+sender = "15116672656@163.com"
+recver = "1843296674@qq.com"
+password = "TVnz8jWDrtvk2m3P"
 
 def get_ip_info(ip_address):
     """
